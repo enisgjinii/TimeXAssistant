@@ -34418,3 +34418,737 @@ timestamp,title,process_id
 2024-08-09T02:12:00.748164,.gitignore - TimeXAssistant - Visual Studio Code,132984
 2024-08-09T02:12:05.750710,.gitignore - TimeXAssistant - Visual Studio Code,132984
 2024-08-09T02:12:10.753165,.gitignore - TimeXAssistant - Visual Studio Code,132984
+2024-08-09T02:12:15.755750,.gitignore - TimeXAssistant - Visual Studio Code,132984
+2024-08-09T02:12:20.758115,TimeXAssistant - Visual Studio Code,132984
+2024-08-09T09:07:52.623153,test.py - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:07:57.626988,test.py - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:08:02.628040,Time Tracker,722428
+2024-08-09T09:08:07.630603,Time Tracker,722428
+2024-08-09T09:08:12.631974,Time Tracker,722428
+2024-08-09T09:08:17.633993,Time Tracker,722428
+2024-08-09T09:08:22.636539,Time Tracker,722428
+2024-08-09T09:08:27.639459,Time Tracker,722428
+2024-08-09T09:08:32.641933,Time Tracker,722428
+2024-08-09T09:08:37.644518,Time Tracker,722428
+2024-08-09T09:08:42.646317,Time Tracker,722428
+2024-08-09T09:08:52.648572,Time Tracker,722428
+2024-08-09T09:08:57.651070,Time Tracker,722428
+2024-08-09T09:09:02.653408,Time Tracker,722428
+2024-08-09T09:09:07.655817,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:09:12.658695,New tab and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:09:17.663682,Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:09:22.665633,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:09:27.668382,Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:09:32.670570,Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:09:37.673377,Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:09:42.676292,Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:09:47.678894,Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:09:52.682125,Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:09:57.684760,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:10:02.686910,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:10:07.689290,Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:10:12.691775,Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:10:17.694415,Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:10:22.696662,Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:10:27.699139,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:10:32.701941,Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:10:37.704576,Customizing Time Tracking Visualization - Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:10:42.706987,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:10:47.709277,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:10:52.711061,Time Tracker,722428
+2024-08-09T09:10:57.717731,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:11:02.719691,Customizing Time Tracking Visualization - Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:11:07.722505,Customizing Time Tracking Visualization - Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:11:12.725102,Customizing Time Tracking Visualization - Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:11:17.727931,Customizing Time Tracking Visualization - Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:11:22.730459,Customizing Time Tracking Visualization - Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:11:27.733457,Customizing Time Tracking Visualization - Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:11:32.736195,Customizing Time Tracking Visualization - Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:11:37.738425,Customizing Time Tracking Visualization - Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:11:42.741242,Customizing Time Tracking Visualization - Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:11:47.743674,X and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:11:52.745461,Home / X and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:11:57.747989,Home / X and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:12:02.750912,Home / X and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:12:07.753393,Home / X and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:12:12.755648,Home / X and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:12:17.758146,Home / X and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:12:22.759943,Home / X and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:12:27.761807,Customizing Time Tracking Visualization - Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:12:32.763709,Customizing Time Tracking Visualization - Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:12:37.765101,● renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:12:42.767981,Customizing Time Tracking Visualization - Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:12:47.770736,Customizing Time Tracking Visualization - Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:12:52.773762,Customizing Time Tracking Visualization - Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:12:57.775635,Customizing Time Tracking Visualization - Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:13:02.777247,Customizing Time Tracking Visualization - Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:13:07.779486,Customizing Time Tracking Visualization - Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:13:12.781859,Customizing Time Tracking Visualization - Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:13:17.784300,Customizing Time Tracking Visualization - Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:13:22.785911,Customizing Time Tracking Visualization - Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:13:27.788248,Customizing Time Tracking Visualization - Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:13:32.790035,Customizing Time Tracking Visualization - Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:13:37.791365,Customizing Time Tracking Visualization - Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:13:42.793869,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:13:47.795871,Time Tracker,722428
+2024-08-09T09:13:52.798163,Time Tracker,722428
+2024-08-09T09:13:57.800002,Time Tracker,722428
+2024-08-09T09:14:02.801985,Time Tracker,722428
+2024-08-09T09:14:07.803912,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:14:12.805895,Customizing Time Tracking Visualization - Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:14:17.808593,Customizing Time Tracking Visualization - Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:14:22.810574,Customizing Time Tracking Visualization - Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:14:27.813169,Time Tracker,722428
+2024-08-09T09:14:32.814563,Customizing Time Tracking Visualization - Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:14:37.816560,Customizing Time Tracking Visualization - Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:14:42.818184,MORAD & GIMS - speed up - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:14:47.820985,MORAD & GIMS - speed up - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:14:52.823616,Omah Lay - soso (Official Audio) - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:14:57.826752,Omah Lay - soso (Official Audio) - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:15:02.828816,Omah Lay - soso (Official Audio) - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:15:07.831522,Customizing Time Tracking Visualization - Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:15:12.833576,Customizing Time Tracking Visualization - Claude and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:15:17.836993,Task Switching,132916
+2024-08-09T09:15:22.839584,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:15:27.841797,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:15:32.844451,Customizing Time Tracking Visualization - Claude and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:15:37.846486,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:15:42.849186,● renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:15:47.852067,● renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:15:52.855024,● renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:15:57.862064,Time Tracker,722428
+2024-08-09T09:16:02.864240,Time Tracker,722428
+2024-08-09T09:16:07.866432,Time Tracker,722428
+2024-08-09T09:16:12.869161,Customizing Time Tracking Visualization - Claude and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:16:17.871192,Customizing Time Tracking Visualization - Claude and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:16:22.873575,Time Tracker,722428
+2024-08-09T09:16:27.875631,Time Tracker,722428
+2024-08-09T09:16:32.877765,Time Tracker,722428
+2024-08-09T09:16:37.879607,Customizing Time Tracking Visualization - Claude and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:16:42.882939,Customizing Time Tracking Visualization - Claude and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:16:47.886087,Customizing Time Tracking Visualization - Claude and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:16:52.890483,Customizing Time Tracking Visualization - Claude and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:16:57.894355,Customizing Time Tracking Visualization - Claude and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:17:02.900553,Customizing Time Tracking Visualization - Claude and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:17:07.903003,Customizing Time Tracking Visualization - Claude and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:17:12.905006,activity_log.csv - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:17:17.907000,activity_log.csv - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:17:22.909301,activity_log.csv - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:17:27.910954,activity_log.csv - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:17:32.912528,Customizing Time Tracking Visualization - Claude and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:17:37.914452,Customizing Time Tracking Visualization - Claude and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:17:42.917325,Customizing Time Tracking Visualization - Claude and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:17:47.918855,Customizing Time Tracking Visualization - Claude and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:17:52.920178,Time Tracker,722428
+2024-08-09T09:17:57.922027,Time Tracker,722428
+2024-08-09T09:18:02.923272,● renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:18:07.924987,Time Tracker,722428
+2024-08-09T09:18:12.927172,Time Tracker,722428
+2024-08-09T09:18:17.929593,Time Tracker,722428
+2024-08-09T09:18:22.938199,Time Tracker,722428
+2024-08-09T09:18:27.940600,Time Tracker,722428
+2024-08-09T09:18:32.942555,Customizing Time Tracking Visualization - Claude and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:18:37.945216,Time Tracker,722428
+2024-08-09T09:18:42.947489,Time Tracker,722428
+2024-08-09T09:18:47.949812,Time Tracker,722428
+2024-08-09T09:18:52.951705,Task Switching,132916
+2024-08-09T09:18:57.953475,Claude and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:19:02.956270,Claude and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:19:07.958532,Claude and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:19:12.961291,Claude and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:19:17.964187,Claude and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:19:22.966551,Claude and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:19:27.969493,Claude and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:19:32.971350,Claude and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:19:37.973598,Task Switching,132916
+2024-08-09T09:19:42.975821,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:19:47.978301,Claude and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:19:52.980190,Claude and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:19:57.982152,Claude and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:20:02.984226,Improving Time Tracking Code - Claude and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:20:07.987079,Improving Time Tracking Code - Claude and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:20:12.989276,Improving Time Tracking Code - Claude and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:20:17.991514,google calendar - Search and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:20:22.993495,Improving Time Tracking Code - Claude and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:20:27.996056,Improving Time Tracking Code - Claude and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:20:32.997641,Improving Time Tracking Code - Claude and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:20:37.999673,Improving Time Tracking Code - Claude and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:20:43.002146,Time Tracker,722428
+2024-08-09T09:20:48.004391,Time Tracker,722428
+2024-08-09T09:20:53.006636,Time Tracker,722428
+2024-08-09T09:20:58.008617,Time Tracker,722428
+2024-08-09T09:21:03.010146,Time Tracker,722428
+2024-08-09T09:21:08.012272,Time Tracker,722428
+2024-08-09T09:21:13.014481,Time Tracker,722428
+2024-08-09T09:21:18.017341,● renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:21:23.019955,Improving Time Tracking Code - Claude and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:21:28.022511,"UBT - Higher Education Institution - Calendar - Week of August 4, 2024 and 1 more page - Personal - Microsoft​ Edge",197272
+2024-08-09T09:21:33.025268,"Google Calendar - Week of August 5, 2024 and 1 more page - Personal - Microsoft​ Edge",197272
+2024-08-09T09:21:38.026980,Cody | AI coding assistant and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:21:43.029586,WhatsApp Web,393720
+2024-08-09T09:21:48.031114,Dashboard - Sourcegraph and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:21:53.032778,Cody Chat - Sourcegraph and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:21:58.035794,Cody Chat - Sourcegraph and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:22:03.038437,Cody Chat - Sourcegraph and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:22:08.041025,Cody Chat - Sourcegraph and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:22:13.042735,Cody Chat - Sourcegraph and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:22:18.044038,MORAD - PELELE [VIDEO OFICIAL] - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:22:23.045750,MORAD - PELELE [VIDEO OFICIAL] - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:22:28.047155,MORAD - PELELE [VIDEO OFICIAL] - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:22:33.049580,YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:22:38.051828,YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:22:43.053938,Ora Nacionale: Haxhiu: Nuk e di që ka dhunues të grave në ministri - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:22:48.057127,Ora Nacionale: Haxhiu: Nuk e di që ka dhunues të grave në ministri - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:22:53.060621,Ora Nacionale: Haxhiu: Nuk e di që ka dhunues të grave në ministri - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:22:58.062823,Ora Nacionale: Haxhiu: Nuk e di që ka dhunues të grave në ministri - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:23:03.064280,YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:23:08.066225,YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:23:13.069295,YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:23:18.072270,My Mom thought it was the devil - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:23:23.075193,My Mom thought it was the devil - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:23:28.077391,My Mom thought it was the devil - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:23:33.081835,My Mom thought it was the devil - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:23:38.084776,My Mom thought it was the devil - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:23:43.087963,My Mom thought it was the devil - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:23:48.091361,My Mom thought it was the devil - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:23:53.093531,My Mom thought it was the devil - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:23:58.096066,My Mom thought it was the devil - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:24:03.098691,My Mom thought it was the devil - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:24:08.106498,My Mom thought it was the devil - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:24:13.109191,My Mom thought it was the devil - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:24:18.110966,I woke up Frankie just to eat a whole cake - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:24:23.113741,I woke up Frankie just to eat a whole cake - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:24:28.115509,I woke up Frankie just to eat a whole cake - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:24:33.117530,I woke up Frankie just to eat a whole cake - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:24:38.118920,I woke up Frankie just to eat a whole cake - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:24:43.121178,I woke up Frankie just to eat a whole cake - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:24:48.123392,I woke up Frankie just to eat a whole cake - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:24:53.124572,I woke up Frankie just to eat a whole cake - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:24:58.126084,I woke up Frankie just to eat a whole cake - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:25:03.128213,I woke up Frankie just to eat a whole cake - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:25:08.129618,I woke up Frankie just to eat a whole cake - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:25:13.131461,I woke up Frankie just to eat a whole cake - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:25:18.134069,I run these streets 😤 - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:25:23.139001,SMOKING THUGS in the HOOD *GONE WRONG* 😳 - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:25:28.144919,Ora Nacionale: Haxhiu: Nuk e di që ka dhunues të grave në ministri - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:25:33.146551,Cili është shteti i vetëm që mund ta ndalë luftën? - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:25:38.149322,Cili është shteti i vetëm që mund ta ndalë luftën? - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:25:43.151321,YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:25:48.153519,YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:25:53.155340,YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:25:58.157132,Ledri Vula - Njesia Speciale - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:26:03.159932,Cody Chat - Sourcegraph and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:26:08.162416,Cody Chat - Sourcegraph and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:26:13.164021,Cody Chat - Sourcegraph and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:26:18.165796,Google Chat - Chat,1181562
+2024-08-09T09:26:23.167947,Google Chat - Chat,1181562
+2024-08-09T09:26:28.169802,Google Chat - Baresha Network - Chat,1181562
+2024-08-09T09:26:33.171663,Google Chat - Baresha Network - Chat,1181562
+2024-08-09T09:26:38.173453,Google Chat - Chat,1181562
+2024-08-09T09:26:43.174692,Time Tracker,722428
+2024-08-09T09:26:48.176523,Ledri Vula - Njesia Speciale - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:26:53.178236,Ledri Vula - Njesia Speciale - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:26:58.180161,Ledri Vula - Njesia Speciale - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:27:03.182309,Ledri Vula - Njesia Speciale - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:27:08.186955,YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:27:13.189484,Sin Boy - BORNSTAR (Music Video) - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:27:18.191038,Sin Boy - BORNSTAR (Music Video) - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:27:23.193005,Sin Boy - BORNSTAR (Music Video) - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:27:28.195604,Sin Boy - BORNSTAR (Music Video) - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:27:33.198138,Sin Boy - BORNSTAR (Music Video) - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:27:38.201597,Sin Boy - BORNSTAR (Music Video) - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:27:43.203486,Sin Boy - BORNSTAR (Music Video) - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:27:48.205551,Sin Boy - BORNSTAR (Music Video) - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:27:53.207191,Sin Boy - BORNSTAR (Music Video) - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:27:58.208934,Sin Boy - BORNSTAR (Music Video) - YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:28:03.210357,Cody Chat - Sourcegraph and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:28:08.215525,Cody Chat - Sourcegraph and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:28:13.218300,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:28:18.219799,index.html - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:28:23.221941,index.html - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:28:28.223327,Cody Chat - Sourcegraph and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:28:33.224460,font awesome facebook - Search and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:28:38.227436,Flowbite - Build websites even faster with components on top of Tailwind CSS and 5 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:28:43.229239,Tailwind CSS Buttons - Flowbite and 5 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:28:48.231746,Tailwind CSS Buttons - Flowbite and 5 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:28:53.233370,index.html - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:28:58.234634,Task Switching,132916
+2024-08-09T09:29:03.236553,Time Tracker,722428
+2024-08-09T09:29:08.238051,index.html - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:29:13.240848,Time Tracker,722428
+2024-08-09T09:29:18.242716,Time Tracker,722428
+2024-08-09T09:29:23.244274,index.html - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:29:28.246300,index.html - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:29:33.247745,index.html - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:29:38.249665,index.html - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:29:43.250541,Time Tracker,722428
+2024-08-09T09:29:48.252066,index.html - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:29:53.253795,Time Tracker,722428
+2024-08-09T09:29:58.254926,Time Tracker,722428
+2024-08-09T09:30:03.256418,Time Tracker,722428
+2024-08-09T09:30:08.258368,Cody Chat - Sourcegraph and 5 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:30:13.260048,Cody Chat - Sourcegraph and 5 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:30:18.261958,Windows Shell Experience Host,853468
+2024-08-09T09:30:23.266725,Home / X and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:30:28.268855,Home / X and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:30:33.272439,(12) Feed | LinkedIn and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:30:38.274703,(12) Feed | LinkedIn and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:30:43.277409,(12) Feed | LinkedIn and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:30:48.281832,(12) Feed | LinkedIn and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:30:53.284086,(12) Feed | LinkedIn and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:30:58.286132,(12) Feed | LinkedIn and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:31:03.288126,(12) Feed | LinkedIn and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:31:08.289732,(12) Feed | LinkedIn and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:31:13.291534,(12) Feed | LinkedIn and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:31:18.295404,(12) Feed | LinkedIn and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:31:23.297409,(12) Feed | LinkedIn and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:31:28.299254,(12) Feed | LinkedIn and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:31:33.301914,(2) LinkedIn and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:31:38.305303,(2) frontend developer Jobs | LinkedIn and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:31:43.308057,(2) frontend developer Jobs | LinkedIn and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:31:48.309904,Tailwind CSS Buttons - Flowbite and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:31:53.311823,Cody Chat - Sourcegraph and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:31:58.313087,Cody Chat - Sourcegraph and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:32:03.314467,Cody Chat - Sourcegraph and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:32:08.316477,Cody Chat - Sourcegraph and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:32:13.318514,Font Awesome and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:32:18.320262,Font Awesome and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:32:23.322028,Font Awesome and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:32:28.323348,Font Awesome and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:32:33.325240,Font Awesome and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:32:38.327115,Font Awesome and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:32:43.328782,Cody Chat - Sourcegraph and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:32:48.330706,YouTube and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:32:53.332746,YouTube and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:32:58.335388,YouTube and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:33:03.338189,Ladies give us dorks a chance. - YouTube and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:33:08.340043,Ladies give us dorks a chance. - YouTube and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:33:13.343171,Ladies give us dorks a chance. - YouTube and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:33:18.345093,Ladies give us dorks a chance. - YouTube and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:33:23.346756,Ladies give us dorks a chance. - YouTube and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:33:28.349506,Ladies give us dorks a chance. - YouTube and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:33:33.350884,Ladies give us dorks a chance. - YouTube and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:33:38.354576,John Pinette - Speaking French vs Italian (2004) #shorts #standupcomedy #comedyshorts #comedy - YouTube and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:33:43.359163,John Pinette - Speaking French vs Italian (2004) #shorts #standupcomedy #comedyshorts #comedy - YouTube and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:33:48.361183,John Pinette - Speaking French vs Italian (2004) #shorts #standupcomedy #comedyshorts #comedy - YouTube and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:33:53.363120,John Pinette - Speaking French vs Italian (2004) #shorts #standupcomedy #comedyshorts #comedy - YouTube and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:33:58.365442,John Pinette - Speaking French vs Italian (2004) #shorts #standupcomedy #comedyshorts #comedy - YouTube and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:34:03.367730,Cody Chat - Sourcegraph and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:34:08.369365,Gabriel Iglesias: Why I love carnivals #comedy #comedyshorts - YouTube and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:34:13.371696,Gabriel Iglesias: Why I love carnivals #comedy #comedyshorts - YouTube and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:34:18.374936,Gabriel Iglesias: Why I love carnivals #comedy #comedyshorts - YouTube and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:34:23.376498,Gabriel Iglesias: Why I love carnivals #comedy #comedyshorts - YouTube and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:34:28.378451,Gabriel Iglesias: Why I love carnivals #comedy #comedyshorts - YouTube and 6 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:34:33.380684,Gabriel Iglesias: Why I love carnivals #comedy #comedyshorts - YouTube and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:34:38.383907,Cody - Sourcegraph and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:34:43.387003,YouTube and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:34:48.388439,Cody Chat - Sourcegraph and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:34:53.390228,Cody Chat - Sourcegraph and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:34:58.392169,Time Tracker,722428
+2024-08-09T09:35:03.393143,Time Tracker,722428
+2024-08-09T09:35:08.394623,Time Tracker,722428
+2024-08-09T09:35:13.396809,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:35:18.398749,Cody Chat - Sourcegraph and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:35:23.400493,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:35:28.402037,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:35:33.404248,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:35:38.405921,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:35:43.407672,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:35:48.412918,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:35:53.414760,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:35:58.416863,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:36:03.418742,activity_log.csv - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:36:08.420115,activity_log.csv - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:36:13.421651,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:36:18.423297,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:36:23.425201,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:36:28.427228,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:36:33.428836,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:36:38.430032,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:36:43.432090,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:36:48.434364,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:36:53.436517,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:36:58.438094,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:37:03.439573,Upbeat Study Music Deep House Mix for Peak Focus - Isochronic Tones - YouTube and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:37:08.441170,Upbeat Study Music Deep House Mix for Peak Focus - Isochronic Tones - YouTube and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:37:13.442434,focus house music work - YouTube and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:37:18.444224,YouTube and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:37:23.446470,YouTube and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:37:28.448190,YouTube and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:37:33.449861,YouTube and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:37:38.451468,When she not used to a good man #Shorts - YouTube and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:37:43.453553,When she not used to a good man #Shorts - YouTube and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:37:48.454645,New tab and 4 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:37:53.456518,When she not used to a good man #Shorts - YouTube and 4 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:37:58.461451,When she not used to a good man #Shorts - YouTube and 4 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:38:03.462937,When she not used to a good man #Shorts - YouTube and 4 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:38:08.464580,When she not used to a good man #Shorts - YouTube and 4 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:38:13.466571,When she not used to a good man #Shorts - YouTube and 4 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:38:18.468682,When she not used to a good man #Shorts - YouTube and 4 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:38:23.472858,When she not used to a good man #Shorts - YouTube and 4 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:38:28.474879,When she not used to a good man #Shorts - YouTube and 4 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:38:33.482545,YouTube and 4 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:38:38.484398,YouTube and 4 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:38:43.486820,[v2] 90 Minutes of Focused Studying: The Best Binaural Beats - YouTube and 4 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:38:48.488098,[v2] 90 Minutes of Focused Studying: The Best Binaural Beats - YouTube and 4 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:38:53.489610,Do Binaural Beats Work?? NEUROLOGIST explains binaural beats - YouTube and 4 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:38:58.490954,Binaural Beats work - YouTube and 4 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:39:03.492380,ChatGPT and 4 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:39:08.494914,Task Switching,132916
+2024-08-09T09:39:13.497089,Time Tracker,722428
+2024-08-09T09:39:18.498844,Time Tracker,722428
+2024-08-09T09:39:23.499911,Time Tracker,722428
+2024-08-09T09:39:28.501117,Time Tracker,722428
+2024-08-09T09:39:33.503217,Time Tracker,722428
+2024-08-09T09:39:38.505154,Time Tracker,722428
+2024-08-09T09:39:43.506995,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:39:48.509093,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:39:53.510097,Cody Chat - Sourcegraph and 4 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:39:58.511613,Cody Chat - Sourcegraph and 4 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:40:03.513494,Time Tracker,722428
+2024-08-09T09:40:08.516324,"f.lux: Reduce eyestrain, day and night ",263394
+2024-08-09T09:40:13.518437,"Google Calendar - Week of August 5, 2024 and 4 more pages - Personal - Microsoft​ Edge",197272
+2024-08-09T09:40:18.519802,Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:40:23.521529,Sign in - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:40:28.522861,"Increase Brain Power, Enhance Intelligence, IQ to improve, Binaural Beats, Improve Memory - YouTube and 2 more pages - Personal - Microsoft​ Edge",197272
+2024-08-09T09:40:33.525363,"Increase Brain Power, Enhance Intelligence, IQ to improve, Binaural Beats, Improve Memory - YouTube and 2 more pages - Personal - Microsoft​ Edge",197272
+2024-08-09T09:40:38.527889,Spotify – Search and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:40:43.530118,"13 Hz Concentration - Binaural Beats • Miracle Tones, Binaural Beats MT and 2 more pages - Personal - Microsoft​ Edge",197272
+2024-08-09T09:40:48.540304,test wifi speed - Search and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:40:53.541697,Cody | AI coding assistant and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:40:58.544901,Sign in - Sourcegraph and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:41:03.546840,Cody Chat - Sourcegraph and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:41:08.548159,Cody Chat - Sourcegraph and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:41:13.549358,Cody Chat - Sourcegraph and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:41:18.550358,Cody Chat - Sourcegraph and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:41:23.551995,Cody Chat - Sourcegraph and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:41:28.554101,Cody Chat - Sourcegraph and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:41:33.556181,Cody Chat - Sourcegraph and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:41:38.558021,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:41:43.560756,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:41:48.562221,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:41:53.563542,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:41:58.565381,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:42:03.567041,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:42:08.568865,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:42:13.570689,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:42:18.572384,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:42:23.574036,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:42:28.575682,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:42:33.577537,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:42:38.579975,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:42:43.583063,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:42:48.586017,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:42:53.587421,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:42:58.589024,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:43:03.591896,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:43:08.593521,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:43:13.595208,New tab and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:43:18.596981,Home / X and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:43:23.598225,Home / X and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:43:28.600230,Home / X and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:43:33.602121,Home / X and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:43:38.604319,Home / X and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:43:43.606622,Home / X and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:43:48.608383,Home / X and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:43:53.611192,Home / X and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:43:58.613412,Home / X and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:44:03.615255,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:44:08.616745,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:44:13.618248,WhatsApp Web,393720
+2024-08-09T09:44:18.619388,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:44:23.620999,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:44:28.622726,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:44:33.624394,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:44:38.626375,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:44:43.627655,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:44:48.629635,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:44:53.631603,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:44:58.633109,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:45:03.635758,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:45:08.637065,Time Tracker,722428
+2024-08-09T09:45:13.638823,Time Tracker,722428
+2024-08-09T09:45:18.640585,New tab and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:45:23.642452,best icons for electron js - Search and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:45:28.645028,Icons - electron-builder and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:45:33.646467,Icons - electron-builder and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:45:38.648020,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:45:43.650537,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:45:48.652026,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:45:53.653371,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:45:58.655095,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:46:03.656787,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:46:08.658246,Time Tracker,722428
+2024-08-09T09:46:13.660463,Time Tracker,722428
+2024-08-09T09:46:18.662268,Time Tracker,722428
+2024-08-09T09:46:23.663799,Time Tracker,722428
+2024-08-09T09:46:28.665781,● renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:46:33.667615,● renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:46:38.668631,Time Tracker,722428
+2024-08-09T09:46:43.670175,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:46:48.674310,Time Tracker,329144
+2024-08-09T09:46:53.677775,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:46:58.680588,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:47:03.682727,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:47:08.684778,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:47:13.686391,Time Tracker,329144
+2024-08-09T09:47:18.688252,Time Tracker,329144
+2024-08-09T09:47:23.690164,Time Tracker,329144
+2024-08-09T09:47:28.692503,index.html - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:47:33.694748,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:47:38.696257,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:47:43.697976,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:47:48.700581,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:47:53.702057,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:47:58.703814,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:48:03.705506,index.html - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:48:08.707139,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:48:13.708886,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:48:18.710686,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:48:23.712852,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:48:28.714395,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:48:33.716219,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:48:38.717894,Time Tracker,329144
+2024-08-09T09:48:43.719348,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:48:48.721327,,393606
+2024-08-09T09:48:53.722432,Microsoft Store,5965332
+2024-08-09T09:48:58.723809,Microsoft Store,5965332
+2024-08-09T09:49:03.725081,Microsoft Store,5965332
+2024-08-09T09:49:08.726516,Microsoft Store,5965332
+2024-08-09T09:49:13.728081,Microsoft Store,5965332
+2024-08-09T09:49:18.729384,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:49:23.730958,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:49:28.732765,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:49:33.733882,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:49:38.735113,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:49:43.736951,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:49:48.738489,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:49:53.740318,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:49:58.741827,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:50:03.743360,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:50:08.745244,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:50:13.746819,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:50:18.748335,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:50:23.749719,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:50:28.750757,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:50:33.752440,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:50:38.754875,main.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:50:43.756087,Time Tracker,329144
+2024-08-09T09:50:48.756990,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:50:53.760691,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:50:58.762796,Time Tracker,329144
+2024-08-09T09:51:03.764815,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:51:08.766683,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:51:13.768197,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:51:18.770048,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:51:23.772519,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:51:28.773985,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:51:33.775421,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:51:38.777290,● renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:51:43.779542,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:51:48.781930,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:51:53.783890,Time Tracker,525782
+2024-08-09T09:51:58.785753,Time Tracker,525782
+2024-08-09T09:52:03.787018,Time Tracker,525782
+2024-08-09T09:52:08.788197,Cody Chat - Sourcegraph and 1 more page - Personal - Microsoft​ Edge,197272
+2024-08-09T09:52:13.789833,New tab and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:52:18.791831,ChatGPT and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:52:23.793232,ChatGPT and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:52:28.795990,ChatGPT and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:52:33.797870,ChatGPT and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:52:38.801194,ChatGPT and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:52:43.802826,ChatGPT and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:52:48.804272,ChatGPT and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:52:53.806199,ChatGPT and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:52:58.808683,ChatGPT and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:53:03.810951,ChatGPT and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:53:08.812940,ChatGPT and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:53:13.814957,ChatGPT and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:53:18.817310,ChatGPT and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:53:23.818973,ChatGPT and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:53:28.821919,ChatGPT and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:53:33.823248,ChatGPT and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:53:38.825294,ChatGPT and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:53:43.826838,Task Switching,132916
+2024-08-09T09:53:48.834594,Time Tracker,525782
+2024-08-09T09:53:53.836014,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:53:58.838610,Time Tracker,853440
+2024-08-09T09:54:03.841327,Time Tracker,853440
+2024-08-09T09:54:08.845202,Time Tracker,853440
+2024-08-09T09:54:13.847083,Time Tracker,853440
+2024-08-09T09:54:18.849050,ChatGPT and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:54:23.851007,ChatGPT and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:54:28.853831,ChatGPT and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:54:33.856306,ChatGPT and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:54:38.858854,ChatGPT and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:54:43.861761,ChatGPT and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:54:48.863704,ChatGPT and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:54:53.864938,ChatGPT and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:54:58.866930,ChatGPT and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:55:03.868543,ChatGPT and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:55:08.870670,ChatGPT and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:55:13.872879,ChatGPT and 2 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:55:18.874096,Time Tracker,853440
+2024-08-09T09:55:23.875982,Time Tracker,853440
+2024-08-09T09:55:28.877842,New tab and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:55:33.880044,(5) Facebook and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:55:38.883588,(5) Facebook and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:55:43.886018,Facebook and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:55:48.887828,Facebook and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:55:53.890184,Facebook and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:55:58.892478,Facebook and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:56:03.894795,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:56:08.897046,Task Switching,132916
+2024-08-09T09:56:13.898773,Time Tracker,853440
+2024-08-09T09:56:18.900593,Facebook and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:56:23.901970,Time Tracker,853440
+2024-08-09T09:56:28.903924,Time Tracker,853440
+2024-08-09T09:56:33.905793,● renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:56:38.907329,● renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:56:43.909185,● renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:56:48.910861,● renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:56:53.912491,Time Tracker,853440
+2024-08-09T09:56:58.914118,Time Tracker,853440
+2024-08-09T09:57:03.916198,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:57:08.918707,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:57:13.920650,Time Tracker,853440
+2024-08-09T09:57:18.922385,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:57:23.924510,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:57:28.926601,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:57:33.928111,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:57:38.930220,● renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:57:43.932712,Time Tracker,853440
+2024-08-09T09:57:48.934727,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:57:53.936345,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:57:58.938051,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:58:03.939353,● renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:58:08.941059,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:58:13.942936,index.html - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:58:18.944678,Optimizing Async CSV Parsing and 3 more pages - Personal - Microsoft​ Edge,197272
+2024-08-09T09:58:23.946695,New tab - Personal - Microsoft​ Edge,328392
+2024-08-09T09:58:28.948545,Search | Spotify and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T09:58:33.949927,New tab and 1 more page - Personal - Microsoft​ Edge,1443694
+2024-08-09T09:58:38.952155,Task Switching,132916
+2024-08-09T09:58:43.953859,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:58:48.956224,Time Tracker,853440
+2024-08-09T09:58:53.957146,Time Tracker,853440
+2024-08-09T09:58:58.958445,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:59:03.960827,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:59:08.962350,Time Tracker,853440
+2024-08-09T09:59:13.963636,Time Tracker,853440
+2024-08-09T09:59:18.965326,Time Tracker,853440
+2024-08-09T09:59:23.966448,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T09:59:28.968349,ChatGPT and 1 more page - Personal - Microsoft​ Edge,1443694
+2024-08-09T09:59:33.970322,ChatGPT and 1 more page - Personal - Microsoft​ Edge,1443694
+2024-08-09T09:59:38.972429,ChatGPT and 1 more page - Personal - Microsoft​ Edge,1443694
+2024-08-09T09:59:43.975563,ChatGPT and 1 more page - Personal - Microsoft​ Edge,1443694
+2024-08-09T09:59:48.977572,ChatGPT and 1 more page - Personal - Microsoft​ Edge,1443694
+2024-08-09T09:59:53.978972,ChatGPT and 1 more page - Personal - Microsoft​ Edge,1443694
+2024-08-09T09:59:58.980312,ChatGPT and 1 more page - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:00:03.981684,Time Tracker,853440
+2024-08-09T10:00:08.983429,ChatGPT and 1 more page - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:00:13.985690,ChatGPT and 1 more page - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:00:18.986985,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T10:00:23.989509,Time Tracker,853440
+2024-08-09T10:00:28.991473,Time Tracker,853440
+2024-08-09T10:00:33.993762,Time Tracker,853440
+2024-08-09T10:00:38.995855,Time Tracker,853440
+2024-08-09T10:00:43.997514,ChatGPT and 1 more page - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:00:48.998891,ChatGPT and 1 more page - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:00:54.000701,ChatGPT and 1 more page - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:00:59.003220,activity_log.csv - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T10:01:04.004179,ChatGPT and 1 more page - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:01:09.005932,ChatGPT and 1 more page - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:01:14.008014,ChatGPT and 1 more page - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:01:19.009608,ChatGPT and 1 more page - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:01:24.010886,ChatGPT and 1 more page - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:01:29.012686,ChatGPT and 1 more page - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:01:34.014699,New tab and 2 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:01:39.016526,Today – Todoist and 2 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:01:44.018469,Home / X and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:01:49.019930,Home / X and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:01:54.021130,Home / X and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:01:59.022498,Home / X and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:02:04.024127,Home / X and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:02:09.025376,Home / X and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:02:14.026802,Home / X and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:02:19.028507,Home / X and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:02:24.029809,Home / X and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:02:29.031773,Home / X and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:02:34.033811,Home / X and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:02:39.035396,Home / X and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:02:44.037533,Home / X and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:02:49.038997,Home / X and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:02:54.040544,Home / X and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:02:59.042586,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:03:04.044524,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:03:09.046190,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T10:03:14.048176,Time Tracker,853440
+2024-08-09T10:03:19.049615,Time Tracker,853440
+2024-08-09T10:03:24.052001,Time Tracker,853440
+2024-08-09T10:03:29.053800,Time Tracker,853440
+2024-08-09T10:03:34.055379,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:03:39.058396,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:03:44.060479,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:03:49.062051,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:03:54.063696,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:03:59.065071,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:04:04.067118,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:04:09.069024,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:04:14.070573,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:04:19.073077,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:04:24.074815,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:04:29.076695,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:04:34.078627,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:04:39.080235,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:04:44.081525,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:04:49.083418,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:04:54.084870,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:04:59.086722,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:05:04.089313,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:05:09.090952,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:05:14.093569,Time Tracker,853440
+2024-08-09T10:05:19.095671,● renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T10:05:24.097651,● renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T10:05:29.100360,Time Tracker,853440
+2024-08-09T10:05:34.101802,Time Tracker,853440
+2024-08-09T10:05:39.103397,Time Tracker,853440
+2024-08-09T10:05:44.105770,renderer.js - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T10:05:49.108172,activity_log.csv - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T10:05:54.109629,Time Tracker,853440
+2024-08-09T10:05:59.111021,test.py - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T10:06:04.112864,test.py - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T10:06:09.114127,test.py - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T10:06:14.116336,test.py - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T10:06:19.118503,test.py - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T10:06:31.656076,test.py - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T10:06:32.657164,test.py - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T10:06:33.658723,test.py - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T10:06:34.660447,test.py - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T10:06:36.662354,,65992
+2024-08-09T10:06:37.664027,Time Tracker,525024
+2024-08-09T10:06:38.666238,Time Tracker,525024
+2024-08-09T10:06:39.668390,Time Tracker,525024
+2024-08-09T10:06:40.669799,Time Tracker,525024
+2024-08-09T10:06:41.670799,Time Tracker,525024
+2024-08-09T10:06:42.671807,,65992
+2024-08-09T10:06:43.673648,test.py - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T10:06:44.676450,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:06:45.678753,ChatGPT and 3 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:06:46.680050,New tab and 4 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:06:47.681236,Index of / and 4 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:06:48.682944,Home / X and 4 more pages - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:06:49.684816,Baresha Panel - Google Login and 1 more page - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:06:50.686883,Baresha Panel - Google Login and 1 more page - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:06:51.688273,Sign in – Google accounts and 1 more page - Personal - Microsoft​ Edge,1443694
+2024-08-09T10:06:52.690653,test.py - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T10:06:53.692114,,65992
+2024-08-09T10:06:54.693985,test.py - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T10:06:55.695546,test.py - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T10:06:56.697166,activity_log.csv (Working Tree) (activity_log.csv) - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T10:06:57.698854,activity_log.csv (Working Tree) (activity_log.csv) - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T10:06:58.700518,activity_log.csv (Working Tree) (activity_log.csv) - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T10:06:59.702276,activity_log.csv (Working Tree) (activity_log.csv) - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T10:07:00.703546,.gitignore - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T10:07:01.704994,.gitignore - TimeXAssistant - Visual Studio Code,394586
+2024-08-09T10:07:02.708083,.gitignore - TimeXAssistant - Visual Studio Code,394586

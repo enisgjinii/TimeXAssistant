@@ -155,7 +155,7 @@ function renderTimeline(data) {
 
     for (let hour = 0; hour < 24; hour++) {
         const hourBlock = document.createElement('div');
-        hourBlock.className = 'bg-gray-700 relative timeline-hour border-b border-gray-600';
+        hourBlock.className = 'bg-gray-700 relative timeline-hour';
         hourBlock.style.height = `${HOUR_HEIGHT * state.zoomLevel}px`;
 
         const activities = data.timeline.filter(item => item.startHour === hour);

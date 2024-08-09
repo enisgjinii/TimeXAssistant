@@ -43,7 +43,7 @@ def write_to_csv(output_file, data):
         logging.error(f"Error writing to CSV file: {e}")
         raise
 
-def track_activity(output_file='activity_log.csv', interval=5):
+def track_activity(output_file='activity_log.csv', interval=1):
     try:
         initialize_csv(output_file)
         logging.info(f"Activity tracking started. Output file: {output_file}")

@@ -17,6 +17,7 @@ const HOUR_HEIGHT = 60; // pixels
 let state = {
     zoomLevel: ZOOM_LEVELS.DEFAULT,
     activities: [],
+    currentDate: new Date(),
     currentDay: new Date().getDay(),
     summary: {}
 };
@@ -25,6 +26,7 @@ let state = {
 const createStreamFromFile = (filePath) => fs.createReadStream(filePath);
 const parseTimestamp = (timestamp) => new Date(timestamp);
 const formatTime = (date) => date.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+const formatDate = (date) => date.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
 
 // Main functions
 async function parseActivityLog(filePath) {
@@ -53,7 +55,7 @@ async function parseActivityLog(filePath) {
     });
 }
 
-function calculateSummary(activities, selectedDay) {
+function calculateSummary(activities, selectedDate) {
     const summary = {
         totalTime: 0,
         topActivities: {},
@@ -62,7 +64,7 @@ function calculateSummary(activities, selectedDay) {
     };
 
     activities.forEach((activity, index) => {
-        if (activity.day === selectedDay) {
+        if (activity.timestamp.toDateString() === selectedDate.toDateString()) {
             const nextActivity = activities[index + 1];
             const duration = nextActivity
                 ? (nextActivity.timestamp - activity.timestamp) / (1000 * 60)
@@ -97,9 +99,9 @@ function calculateSummary(activities, selectedDay) {
     return summary;
 }
 
-function processActivities(activities, selectedDay) {
+function processActivities(activities, selectedDate) {
     const timelineData = activities.reduce((acc, activity, index) => {
-        if (activity.day === selectedDay) {
+        if (activity.timestamp.toDateString() === selectedDate.toDateString()) {
             const nextActivity = activities[index + 1];
             const duration = nextActivity
                 ? (nextActivity.timestamp - activity.timestamp) / (1000 * 60)
@@ -119,7 +121,7 @@ function processActivities(activities, selectedDay) {
         return acc;
     }, { timeline: [] });
 
-    state.summary = calculateSummary(activities, selectedDay);
+    state.summary = calculateSummary(activities, selectedDate);
     return timelineData;
 }
 
@@ -199,7 +201,7 @@ function renderSummary(summary) {
 
     // Total time
     const totalTimeElement = document.createElement('div');
-    totalTimeElement.className = 'bg-gray-800 p-4 rounded-lg';
+    totalTimeElement.className = 'bg-gray-200 dark:bg-gray-800 p-4 rounded-lg';
     totalTimeElement.innerHTML = `
         <h2 class="text-xl font-bold mb-2">Total Time</h2>
         <p>${Math.round(summary.totalTime)} minutes</p>
@@ -229,18 +231,30 @@ function renderSummary(summary) {
     summaryContainer.appendChild(topActivitiesElement);
 }
 
-function initDaySelector() {
-    const daySelector = document.getElementById('day-selector');
-    daySelector.value = state.currentDay;
+function changeDate(days) {
+    state.currentDate.setDate(state.currentDate.getDate() + days);
+    state.currentDay = state.currentDate.getDay();
+    updateDateDisplay();
+    renderView();
+}
 
-    daySelector.addEventListener('change', (event) => {
-        state.currentDay = parseInt(event.target.value, 10);
-        renderView();
-    });
+function updateDateDisplay() {
+    const dateDisplay = document.querySelector('#current-date span');
+    dateDisplay.textContent = formatDate(state.currentDate);
+}
+
+function initDateNavigation() {
+    const prevDayBtn = document.getElementById('prev-day');
+    const nextDayBtn = document.getElementById('next-day');
+
+    prevDayBtn.addEventListener('click', () => changeDate(-1));
+    nextDayBtn.addEventListener('click', () => changeDate(1));
+
+    updateDateDisplay();
 }
 
 function renderView() {
-    const processedData = processActivities(state.activities, state.currentDay);
+    const processedData = processActivities(state.activities, state.currentDate);
     renderTimeLabels();
     renderTimeline(processedData);
     renderSummary(state.summary);
@@ -255,7 +269,7 @@ function initZoomControls() {
 async function init() {
     try {
         state.activities = await parseActivityLog('activity_log.csv');
-        initDaySelector();
+        initDateNavigation();
         initZoomControls();
         renderView();
     } catch (error) {

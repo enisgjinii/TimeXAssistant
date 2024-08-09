@@ -6,8 +6,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Time Tracker</title>
     <link href="https://cdn.jsdelivr.net/npm/flowbite@2.5.1/dist/flowbite.min.css" rel="stylesheet" />
-    <script src="https://kit.fontawesome.com/a1927a49ea.js" crossorigin="anonymous"></script>
+    <link rel='stylesheet'
+        href='https://cdn-uicons.flaticon.com/2.5.1/uicons-regular-rounded/css/uicons-regular-rounded.css'>
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+    <link href="https://api.fontshare.com/v2/css?f[]=satoshi@500&display=swap" rel="stylesheet">
     <style>
+        * {
+            font-family: 'Satoshi', sans-serif;
+        }
+
         .timeline-header {
             background-color: #4a5568;
             padding: 0.5rem;
@@ -47,6 +54,8 @@
             justify-content: flex-end;
         }
     </style>
+    <script src="https://unpkg.com/@popperjs/core@2"></script>
+    <script src="https://unpkg.com/tippy.js@6"></script>
 </head>
 
 <body class="bg-gray-900 text-white">
@@ -68,9 +77,30 @@
             <ul class="space-y-2 font-medium">
                 <li>
                     <a href="#"
+                        class="flex items-center p-2 text-gray-900 rounded-lg dark:text-white dark:bg-gray-700 hover:bg-gray-100 dark:hover:bg-gray-700 group">
+                        <i class="fi fi-rr-list-timeline"></i>
+                        <span class="ms-3">Timeline</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#"
                         class="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group">
-                        <i class="fa-solid fa-house"></i>
-                        <span class="ms-3">Dashboard</span>
+                        <i class="fi fi-rr-settings"></i>
+                        <span class="ms-3">Settings</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#"
+                        class="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group">
+                        <i class="fi fi-rr-info"></i>
+                        <span class="ms-3">About</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#"
+                        class="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group">
+                        <i class="fi fi-rr-question"></i>
+                        <span class="ms-3">FAQ</span>
                     </a>
                 </li>
                 <li>
@@ -96,44 +126,43 @@
             <div class="grid grid-cols-3 gap-4 mb-4">
                 <!-- Main Content -->
                 <div class="col-span-2 h-screen p-4 overflow-y-auto">
-                    <!-- Replace the existing day selector with this new date navigation -->
                     <div class="flex justify-between items-center mb-4">
-
                         <div class="flex items-center space-x-2">
                             <!-- Zoom Buttons -->
                             <button id="zoom-in"
                                 class="text-gray-900 bg-white border border-gray-300 focus:outline-none hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 font-medium rounded-lg text-sm px-5 py-2.5 me-2  dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 dark:hover:border-gray-600 dark:focus:ring-gray-700">
-                                <i class="fas fa-search-plus"></i>
+                                <i class="fi fi-rr-zoom-in"></i>
                             </button>
                             <button id="zoom-out"
                                 class="text-gray-900 bg-white border border-gray-300 focus:outline-none hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 font-medium rounded-lg text-sm px-5 py-2.5 me-2  dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 dark:hover:border-gray-600 dark:focus:ring-gray-700">
-                                <i class="fas fa-search-minus"></i>
+                                <i class="fi fi-rr-zoom-out"></i>
                             </button>
                         </div>
                         <div class="flex items-center space-x-4">
                             <!-- Date Selection Buttons -->
-                            <button id="prev-day" class="text-gray-900 bg-white border border-gray-300 focus:outline-none hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 font-medium rounded-lg text-sm px-5 py-2.5 me-2  dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 dark:hover:border-gray-600 dark:focus:ring-gray-700">
-                                <i class="fas fa-chevron-left"></i>
+                            <button id="prev-day"
+                                class="text-gray-900 bg-white border border-gray-300 focus:outline-none hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 font-medium rounded-lg text-sm px-5 py-2.5 me-2  dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 dark:hover:border-gray-600 dark:focus:ring-gray-700">
+                                <i class="fi fi-rr-angle-left"></i>
                             </button>
                             <div id="current-date" class="flex items-center bg-gray-700 px-4 py-2 rounded-md">
-                                <i class="fas fa-calendar-alt mr-2"></i>
+                                <i class="fi fi-rr-calendar mr-2"></i>
                                 <span></span>
                             </div>
-                            <button id="next-day" class="text-gray-900 bg-white border border-gray-300 focus:outline-none hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 font-medium rounded-lg text-sm px-5 py-2.5 me-2  dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 dark:hover:border-gray-600 dark:focus:ring-gray-700">
-                                <i class="fas fa-chevron-right"></i>
+                            <button id="next-day"
+                                class="text-gray-900 bg-white border border-gray-300 focus:outline-none hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 font-medium rounded-lg text-sm px-5 py-2.5 me-2  dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 dark:hover:border-gray-600 dark:focus:ring-gray-700">
+                                <i class="fi fi-rr-angle-right"></i>
                             </button>
                         </div>
                     </div>
-
                     <div class="flex justify-end mb-2 space-x-2">
                     </div>
                     <div class="flex">
                         <!-- Time Labels -->
-                        <div id="time-labels" class="flex flex-col w-16">
+                        <div id="time-labels" class="flex flex-col w-16 rounded-lg">
                             <!-- Labels will be generated here -->
                         </div>
                         <!-- Timeline -->
-                        <div id="timeline" class="relative flex-1 bg-gray-800 rounded-lg shadow-lg p-2 overflow-x-auto">
+                        <div id="timeline" class="relative flex-1 rounded-lg">
                             <!-- Timeline will be generated here -->
                         </div>
                     </div>
@@ -141,7 +170,6 @@
                 <div class="col-span-1 h-screen p-4 overflow-y-auto">
                     <h1 class="text-2xl font-bold text-green-400 dark:text-green-300 mb-4">Summary</h1>
                     <div id="summary-container" class="space-y-4">
-                        <!-- Summary will be generated here -->
                     </div>
                 </div>
             </div>

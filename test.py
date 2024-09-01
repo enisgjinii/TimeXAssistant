@@ -3,7 +3,7 @@ import pygetwindow as gw
 import time
 import os
 import logging
-from datetime import datetime
+from datetime import datetime, timedelta
 
 logging.basicConfig(filename='activity_tracker.log', level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s')
@@ -43,25 +43,36 @@ def write_to_csv(output_file, data):
         logging.error(f"Error writing to CSV file: {e}")
         raise
 
-def track_activity(output_file='activity_log.csv', interval=1):
+def track_activity(output_file='activity_log.csv', interval=1, idle_time=300, grace_period=60):
+    last_active_window = None
+    last_active_time = datetime.now()
+    is_idle = False
+    idle_start_time = None
+    
     try:
         initialize_csv(output_file)
         logging.info(f"Activity tracking started. Output file: {output_file}")
         
         while True:
-            try:
-                active_window = get_active_window()
-                if active_window:
-                    write_to_csv(output_file, active_window)
-                    print(f"Logged: {active_window}")
-                time.sleep(interval)
-            except IOError as e:
-                logging.error(f"IO Error during tracking: {e}")
-                print(f"An IO error occurred. Check the log file for details.")
-            except Exception as e:
-                logging.error(f"Unexpected error during tracking: {e}")
-                print(f"An unexpected error occurred. Check the log file for details.")
-    
+            current_window = get_active_window()
+            if current_window:
+                if last_active_window != current_window['title'] or not last_active_window:
+                    if is_idle:
+                        idle_duration = (datetime.now() - idle_start_time).total_seconds()
+                        if idle_duration >= grace_period:
+                            logging.info(f"Idle period ended. Duration: {idle_duration} seconds.")
+                            print(f"Idle period ended. Duration: {idle_duration} seconds.")
+                        is_idle = False
+                    last_active_window = current_window['title']
+                    last_active_time = datetime.now()
+                    write_to_csv(output_file, current_window)
+                    print(f"Logged: {current_window}")
+                elif (datetime.now() - last_active_time).total_seconds() > idle_time and not is_idle:
+                    is_idle = True
+                    idle_start_time = datetime.now()
+                    logging.info(f"System became idle.")
+                    print(f"System became idle.")
+            time.sleep(interval)
     except KeyboardInterrupt:
         logging.info("Activity tracking stopped by user.")
         print("\nActivity tracking stopped.")
